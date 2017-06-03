@@ -17,6 +17,7 @@ TOP
 - Groupon
 - Stripe
 - Tumblr
+- ZenDesk
 
 VIDEO
 - Hulu
@@ -37,10 +38,12 @@ LEARNING
 - Treehouse
 - Babbel
 - Academia
+- Luminosity
 
 JOBS
 - AngelList
 - Fiverr
+- Jobster
 
 PRODUCTIVITY
 - Intercom
@@ -69,9 +72,14 @@ RANDOM
 - Xing
 - Whisper
 - Genius (old RapGenius)
-- ZenDesk
 - Scribd
 - YellowPages
 - WhitePages
 - Ask.fm
 - LivingSocial
+- A List Apart
+- Clarity
+- Funny or Die
+- SeeClickFix
+- ThemeForest
+- We Heart It
