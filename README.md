@@ -22,7 +22,7 @@ TOP
 VIDEO
 - Hulu
 
-CROUNDFUNDING
+CROUDFUNDING
 - Kickstarter
 - Indiegogo
 
