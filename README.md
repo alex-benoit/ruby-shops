@@ -18,6 +18,7 @@ TOP
 - Stripe
 - Tumblr
 - ZenDesk
+- GoCardless
 
 VIDEO
 - Hulu
